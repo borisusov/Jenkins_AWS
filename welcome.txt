@@ -1,1 +1,2 @@
-Welcome to World of Jenkins ang AWS!
+Welcome to World of Jenkins and AWS!
+Be smart!
