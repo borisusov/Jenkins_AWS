@@ -1,2 +1,3 @@
 Welcome to World of Jenkins and AWS!
 Be smart!
+v 1.3
